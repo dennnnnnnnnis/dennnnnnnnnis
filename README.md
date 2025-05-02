@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Some Basics:
+- 😄 Pronouns: He/Him
+- 🌱 Currently learning about AI/ML/LLM
+- 👯 Open to connect! Let's chat about anything on AI!!!
+- 📫 How to reach me: denniswang0722@gmail.com / linkedin web shown on the profile
+
+### Achievements:
+- 🥈 Silver medal on this [Kagel competition](https://www.kaggle.com/competitions/equity-post-HCT-survival-predictions) (Will keep trying to become a Kaggle Grandmaster 🥸)
+- 🔭 2 DevPost Online Hackathons + 1 University FEIT Hackathon
