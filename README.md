@@ -22,5 +22,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: denniswang0722@gmail.com / linkedin web shown on the profile
 
 ### Achievements:
-- 🥈 Silver medal on this [Kagel competition](https://www.kaggle.com/competitions/equity-post-HCT-survival-predictions) (Will keep trying to become a Kaggle Grandmaster 🥸)
+- 🥈 Silver medal on this [Kaggle competition](https://www.kaggle.com/competitions/equity-post-HCT-survival-predictions)
+- 🙌 Kaggle Expert [profile](https://www.kaggle.com/denniswang07) (for now! Will keep trying to become a Kaggle Grandmaster 🥸)
 - 🔭 2 DevPost Online Hackathons + 1 University FEIT Hackathon
